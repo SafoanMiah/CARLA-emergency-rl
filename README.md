@@ -1,7 +1,7 @@
 
 # Emergency Vehicle Autonomous Driving (RL)
 
-### Jump to main project: [notebook]()
+### Jump to main project: [notebook](https://github.com/SafoanMiah/RL-emergency-autonomous-driving/blob/main/notebook.ipynb)
 
 Aim: Train an autonomous emergency vehicle model (ambulance, police, firefighter) within **CARLA** simulator, making use of **Reinforement Learning**.
 
