@@ -1,0 +1,9 @@
+networkx
+numpy
+numpy
+distro
+Shapely==1.6.4.post2
+carla
+geopy
+gym
+stable-baselines3
